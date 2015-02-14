@@ -1,0 +1,120 @@
+Store Name
+Store Location
+Address Line 1
+Address Line 2
+GPS Coordinates Lat
+GPS Coordinates Long
+Product File name
+Map File Name Line 1
+Map File Name Line 2
+Map File Name Line 3
+Hours Monday Open
+Hours Monday Close
+Hours Tuesday Open
+Hours Tuesday Close
+Hours Wednesday Open
+Hours Wednesday Close
+Hours Thursday Open
+Hours Thursday Close
+Hours Friday Open
+Hours Friday Close
+Hours Saturday Open
+Hours Saturday Close
+Hours Sunday Open
+Hours Sunday Close
+Contact Number
+Reserved Line 1
+Reserved Line 2
+Reserved Line 3
+Reserved Line 4
+Website
+H-E-B
+River Park Shopping Center
+19900 Southwest Freeway
+Sugar Land, TX 77479, United States
+29.564691
+-95.6857991
+HEBRiverparkSugarladTX.txt
+
+
+
+06:00
+23:59
+06:00
+23:59
+06:00
+23:59
+06:00
+23:59
+06:00
+23:59
+06:00
+23:59
+06:00
+23:59
+(281)239-2050
+
+
+
+
+www.heb.com
+Food Town
+Eldridge Road - Sugar Land
+1130 Eldridge Road
+Sugar Land, TX 77478
+29.63776
+-95.61759089999998
+FoodTownSugarLandTX.txt
+
+
+
+06:00
+23:00
+06:00
+23:00
+06:00
+23:00
+06:00
+23:00
+06:00
+23:00
+06:00
+23:00
+06:00
+23:00
+(281) 242-2818
+
+
+
+
+www.foodtownshopper.com
+H-E-B
+Missouri City
+4724 Highway 6
+Missouri City, TX 77459, United States
+
+
+HEBMissouriCityTX.txt
+
+
+
+06:00
+23:59
+06:00
+23:59
+06:00
+23:59
+06:00
+23:59
+06:00
+23:59
+06:00
+23:59
+06:00
+23:59
+(281)403-2172
+
+
+
+
+www.heb.com

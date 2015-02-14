@@ -1,0 +1,340 @@
+A/CFilters
+17 
+AirFreshener
+18 
+AluminumFoil
+18 
+Appliances
+8 
+Asian Foods
+9 
+Auto Supplies
+17 
+Baby Accessories
+20 
+Baby Food
+20 
+Baby Formula
+20 
+Baby Medication
+20 
+Baby Wipes
+20 
+Bags / Wrap
+18 
+Bakeware
+8 
+Band-Aids
+28
+Barbecue Sauce
+10 
+BathSoap
+25 
+Bath Tissue
+Pharmacy Wall 
+Batteries
+Checkstands 
+Beans(Canned)
+7 
+Beans(Dry)
+9 
+Beer
+2 
+Birdseed
+16 
+Biscuit Mix
+6 
+Bleach
+19 
+Boxed Dinners
+7 
+Bread
+BackWall 
+Brooms/Mops
+19 
+CakeMixes
+6 
+Candles
+22 
+Candy
+4 
+Canned Chili
+10
+Canned Fish
+10 
+Canned Fruit
+7 
+Canned Meat
+10 
+Canned Tomatoes
+8 
+Canned Vegetables
+7
+Canning Supplies
+10 
+CatFood
+16 
+CatLitter
+16 
+CD/DVD-Blank
+21 
+Cereal
+5 
+Cereal(Hot)
+5 
+Charcoal
+17 
+Chips
+11
+Cleaners/Cleansers
+18 
+ClosetItems
+19 
+Coffee
+3 
+Coffee Creamer
+3 
+Coffee Filters
+3 
+Condiments
+10 
+Cookies
+3 
+Cosmetics
+25 
+Cotton Balls
+24 
+Cough & Cold
+28 
+Crackers
+3 
+Dental/Oral Care
+26 
+Deodorant
+26 
+Diapers
+20 
+Diet Aids
+29 
+DishSoap
+18 
+DogFood
+26 
+DriedFruit
+7 
+Electrical/Lighting
+17 
+EyeCare
+29 
+Fabric Softener
+19 
+FacialCare
+25 
+Facial Tissue
+Pharmacy Wall 
+Feminine Hygiene
+27 
+FirstAid 
+28 
+FloorWax 
+19 
+Flour
+6
+FoilBakeware
+6 
+FoodWrap/Containers
+18 
+FootCare
+28 
+FruitSnacks
+5 
+GiftCards
+Checkstands 
+GiftWrap
+22 
+Glue
+17 
+Goya
+9 
+GravyMixes
+6 
+Greeting Cards
+22 
+HairAccessories
+24 
+HairCare
+23 
+HairColor
+23 
+Hardware
+17 
+Hispanic Foods
+10 
+Honey
+7 
+Hosiery
+27 
+Hot Cocoa
+3 
+Ice
+Checkstands 
+Incontinence
+27
+Insecticides
+27 
+Instant Breakfast
+5 
+International Foods
+9 
+Jam/Jelly
+7 
+Jell-O
+7 
+Juice
+4 
+Ketchup
+10 
+Kitchen Gadgets
+8 
+Kool-Aid
+4 
+KosherFoods
+9 
+Laundry Detergent
+19 
+Laxatives
+30 
+Light Bulbs
+17 
+Lotion/Cream
+25 
+Macaroni & Cheese
+7 
+Marshmallows
+7
+Matches
+17 
+Mayonnaise
+10 
+Men's Toiletries
+26 
+Microwaveable Food
+7 
+Milk (Canned/Powdered)
+6 
+Mixers
+2 
+Mustard
+10 
+Napkins
+18 
+Nutritional Aids/Bars
+30 
+Nuts(Baking)
+6 
+Nuts(Snacking)
+12 
+Oil / Shortening
+6 
+Olives
+10 
+Pancake Mix
+5 
+Paper Towels
+Pharmacy Wall 
+Party Supplies
+22 
+Pasta(Canned)
+10 
+Pasta(Dry)
+8 
+Pastries
+7 
+PeanutButter
+7 
+PetSupplies
+16 
+Picante Sauce
+10 
+Pickles
+10 
+Pimentos
+7 
+Plates/Cups
+18 
+PopTarts
+5 
+Popcorn
+12 
+Potatoes/Stuffing
+7 
+Powdered Drink Mix
+4 
+Pudding/Pie Filling
+6 
+Q-Tips 
+24 
+Religious Candles
+22 
+Rice
+9 
+Rice Cakes
+12 
+Salad Dressing 
+10 
+Salsa
+10 
+Salt
+6 
+Sauce/Gravy Mix
+6 
+School/Office Supplies
+21 
+Seasonal Items
+13 
+Sewing Needs
+28 
+Shampoo/Conditioner
+23 
+Shaving Needs
+26 
+Shoe Care
+28 
+Skin Care
+25 
+Snacks
+12 
+Sodas
+12 
+Soup
+9 
+Spices
+6 
+Sports Drinks
+2 
+Starch
+19 
+Sugar
+6 
+Syrup
+5 
+Tea
+3 
+Toaster Pastries
+5 
+Tooth picks
+18 
+Tortillas
+BackWall 
+Toys
+21 
+TrashBags
+17 
+Vinegar
+10 
+Vitamins
+29 
+Water
+11 
+Wine
+2

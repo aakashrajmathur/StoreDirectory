@@ -1,0 +1,332 @@
+A/C Filters
+32 
+Air Freshener
+18 
+Aluminum Foil
+17 
+Appliances
+Kitchen & Dining 
+Asian Foods
+8 
+Auto Supplies
+32 
+Baby Accessories
+31 
+Baby Food
+31 
+Baby Formula
+31 
+Baby Medication
+31 
+Baby Wipes
+31 
+Bags/Wrap
+17 
+Bakeware
+Kitchen & Dining 
+Band-Aids
+25 
+Barbecue Sauce
+10 
+Bath Soap
+22 
+Bath Tissue
+Pharmacy Wall 
+Batteries
+Checkstands 
+Beans (Canned)
+9 
+Beans (Dry)
+8 
+Beer
+Wine & Beer 
+Birdseed
+33 
+Biscuit Mix
+5 
+Bleach
+19 
+Boxed Dinners
+9 
+Bread
+4 
+Brooms/Mops
+18 
+Cake Mixes
+5 
+Candles
+18 
+Candy
+3 
+Canned Chili
+9 
+Canned Fish
+9 
+Canned Fruit
+4 
+Canned Meat
+9 
+Canned Tomatoes
+9 
+Canned Vegetables
+9 
+Canning Supplies
+Kitchen & Dining 
+Cat Food
+33 
+Cat Litter
+33 
+CD/DVD,Blank
+30 
+Cereal
+6 
+Cereal (Hot)
+6 
+Charcoal
+Kitchen & Dining 
+Chips
+12 
+Cleaners/Cleansers
+18 
+Closet Items
+19 
+Coffee
+2 
+Coffee Creamer
+2 
+Coffee Filters
+2 
+Condiments
+10 
+Cookies
+12 
+Cosmetics
+21 
+Cotton Balls
+21 
+Cough & Cold
+27 
+Crackers
+12 
+Dental/Oral Care
+25
+Deodorant,Men�s
+24 
+Deodorant,Women's
+22 
+Diapers
+31 
+Diet Aids
+26 
+Dish Soap
+18 
+Dog Food
+33 
+Dried Fruit
+4 
+Electrical
+32 
+Eye Care
+24 
+Fabric Softener
+19 
+Facial Care
+22 
+Facial Tissue
+19 
+Feminine Hygiene
+23 
+First Aid
+25 
+Floor Wax
+18 
+Flour
+5 
+Foil Bakeware
+5 
+Food Wrap/Containers
+17 
+Foot Care
+23 
+Fruit Snacks
+6 
+Gift Cards
+Checkstands 
+Gift Wrap
+Card & Party 
+Glue
+32 
+Gravy Mixes
+8 
+Greeting Cards
+Card & Party 
+Hair Accessories
+21 
+Hair Care
+20 
+Hair Color
+20 
+Hardware
+32 
+Honey
+4 
+Hosiery
+23 
+Hot Cocoa
+2 
+Ice
+Checkstands 
+Incontinence
+23 
+Insecticides
+32 
+Instant Breakfast
+6 
+Jam/Jelly
+4 
+Jell-O
+4 
+Juice
+3 
+Ketchup
+10 
+Kitchen Gadgets
+Kitchen & Dining 
+Kool-Aid
+2 
+Laundry Detergent
+19 
+Laxatives
+27 
+Light Bulbs
+32 
+Lotion/Cream
+22 
+Macaroni & Cheese
+9 
+Marshmallows
+4 
+Matches
+Kitchen & Dining 
+Mayonnaise
+10 
+Men�s Toiletries/Shaving
+24 
+Microwaveable Food
+9 
+Milk (Canned/Powdered)
+5 
+Mixers
+Wine & Beer 
+Mustard
+10 
+Napkins
+16
+Nutritional Aids/Bars
+25 
+Nuts (Baking)
+5 
+Nuts (Snacking)
+1 
+Oil/Shortening
+5 
+Olives
+10 
+Pancake Mix
+6 
+Paper Towels
+16 
+Party Supplies
+Card & Party 
+Pasta (Canned)
+7 
+Pasta (Dry)
+7 
+Pastries
+4 
+Peanut Butter
+4 
+Pet Supplies
+33 
+Picante Sauce
+10 
+Pickles
+10 
+Pimentos
+9 
+Plates/Cups
+17 
+Pop Tarts
+6 
+Popcorn
+Healthy Living 
+Potatoes/Stuffing
+9 
+Powdered Drink Mix
+2 
+Pudding/Pie Filling
+4 
+Q-Tips
+25 
+Religious Candles
+18 
+Rice
+8 
+Rice Cakes
+1 
+Salad Dressing
+10 
+Salsa
+10 
+Salt
+5 
+Sauce/Gravy Mix
+8 
+Seasonal Items
+28,29 
+Sewing Needs
+23 
+Shampoo/Conditioner
+20 
+Shoe Care
+23 
+Skin Care
+22 
+Snacks
+1 
+Sodas
+11 
+Soup
+8 
+Spices
+5 
+Sports Drinks
+11 
+Starch
+19 
+Sugar
+5 
+Syrup
+6 
+Tea
+2 
+Toaster Pastries
+6 
+Toothpicks
+17 
+Tortillas
+4 
+Toys
+28-31 
+Trash Bags
+17 
+Vinegar 
+10 
+Vitamins
+26 
+Water
+2 
+Wine
+Wine & Beer 
+Women Grooming
+22 

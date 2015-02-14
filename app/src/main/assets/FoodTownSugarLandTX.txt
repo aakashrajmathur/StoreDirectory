@@ -1,0 +1,174 @@
+Frozen Dinners
+1-A
+Frozen Entrees
+1-A
+Frozen Bread 
+1-A
+Frozen Desserts 
+1-B
+Frozen Vegetables
+1-B
+Wall of Value
+2-A
+Specials 
+2-A
+Special Buys
+2-A
+Pizzas
+2-B
+Frozen Breakfast
+2-B
+Frozen Juices
+2-B
+Salad Dressings
+3-A
+Condiments
+3-A
+Pickles & Relish
+3-A
+Wall of Values
+3-B
+Special Buys
+3-B
+Specials 
+3-B
+Tex-Mex
+4-B
+Olives & Peppers
+4-B
+Religious Candles
+4-A
+Central Americal
+4-A
+Mexican Food 
+4-A
+Fruit Juices
+5-A
+Fruit Drinks
+5-A
+Jamaican Food
+5-A
+Can Vegetables
+5-B
+Gravy Mixes
+5-B
+Tomatos
+5-B
+Can Meats
+6-A
+Oriental Foods
+6-A
+Soups
+6-A
+Rice & Beans
+6-B
+Box Dinners
+6-B
+Pasta & Sause
+6-B
+Cookies
+7-A
+Crackers
+7-A
+Popcorn & Nuts
+7-A
+Coffee & Tea
+7-B
+Cocoa * MarshMellows
+7-B
+Can Fruit
+7-B
+Spices
+8-B
+Flour & Sugar 
+8-B
+Cornmeal
+8-B
+Cakes Mixes
+8-A
+Baking Needs
+8-A
+Cooking Oil
+8-A
+Cold Cereal
+9-A
+Bag Cereal
+9-A
+Hot Cereal 
+9-A
+Candy
+9-B
+School Supplies
+9-B
+Granola & Fruit Snacks
+9-B
+Feminine Hygine 
+10-A
+Hair Needs 
+10-A
+Cold Remedies
+10-B
+Facial Tissues
+10-B
+Health & Beauty
+10-B
+Laundry Soaps
+11-A
+Fabric Softners
+11-A
+Bleach
+11-A
+Bar Soap
+11-B
+All Purpose Cleaners
+11-B
+Mops & Brooms
+11-B
+Dog Food 
+12-A
+Insecticides
+12-A
+Auto & Hardware
+12-A
+Cat Food
+12-B
+Diapers
+12-B
+Baby Food
+12-B
+Cups& Plates
+13-A
+Peanut Butter & Jelly
+13-A
+Bread & Pastries
+13-A
+Trash-Wraps-Foils
+13-B
+Paper Towels
+13-B
+Bathroom Tissue
+13-B
+Beer
+14-A
+Wine
+14-A
+Coolers
+14-A
+Potato Chips
+14-B
+Snacks
+14-B
+Charcoal
+14-B
+Butter
+15-A
+Eggs & Biscuits
+15-A
+Yogurts
+15-A
+Cheese
+15-B
+Juices
+15-B
+Ice Cream
+15-B
