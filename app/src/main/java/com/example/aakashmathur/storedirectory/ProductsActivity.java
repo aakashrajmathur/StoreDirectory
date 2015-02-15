@@ -26,22 +26,21 @@ public class ProductsActivity extends ActionBarActivity {
             super.onCreate(savedInstanceState);
             setContentView(R.layout.activity_products);
 
+
             String storeName = getIntent().getStringExtra("StoreName");
-            String fileName = getIntent().getStringExtra("ProductFileName");
-            Toast.makeText(this, storeName, Toast.LENGTH_LONG).show();
+            String storeLocation = getIntent().getStringExtra("StoreLocation");
 
+            //Toast.makeText(this, storeName, Toast.LENGTH_LONG).show();
+
+
+            //Set Header as Store Name - Store Location:
             TextView tv = (TextView)findViewById(R.id.textView2);
-            tv.setText(storeName);
+            tv.setText(storeName + " - " + storeLocation);
 
+            String fileName = getIntent().getStringExtra("ProductFileName");
             ArrayList<Product> listOfProducts = ReadProductsFromTextFile(fileName);
 
-            ArrayList<String> listOfProductNames = new ArrayList<String>(listOfProducts.size());
-
-            for(Product p : listOfProducts){
-                listOfProductNames.add(p.name);
-            }
-
-            ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,android.R.layout.simple_list_item_1, listOfProductNames);
+            ProductAdaptor adapter = new ProductAdaptor(this, R.layout.item_product, listOfProducts);
             ListView listView = (ListView)findViewById(R.id.listView2);
             listView.setAdapter(adapter);
 
