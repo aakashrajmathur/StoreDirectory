@@ -53,24 +53,24 @@ public class StoreAdaptor extends ArrayAdapter<Store> {
         tv.setText(store.contactNumber);
 
         if(store.storeName.equals("Store Name")){
-            view.setBackgroundColor(Color.YELLOW);
+            view.setBackgroundColor(Color.rgb(52, 152, 219));//Blue header
         }
         else {
             if (position % 2 == 0) {
 
                 if (isStoreOpenNow(stores.get(position))) {
-                    view.setBackgroundColor(Color.rgb(240, 255, 240)); //GREEN);
+                    view.setBackgroundColor(Color.rgb(0, 168, 107)); //JADE - DARK Green);
                     ((TextView)view.findViewById(R.id.textViewHours)).setText("Open");
                 } else {
-                    view.setBackgroundColor(Color.rgb(255, 128, 128)); //RED);
+                    view.setBackgroundColor(Color.rgb(231, 76, 60)); //ALIZARIN - DARK RED);
                     ((TextView)view.findViewById(R.id.textViewHours)).setText("Closed");
                 }
             } else {
                 if (isStoreOpenNow(stores.get(position))) {
-                    view.setBackgroundColor(Color.rgb(245, 255, 245)); //LT GREEN);
+                    view.setBackgroundColor(Color.rgb(80, 200, 120)); //EMERALD - LT GREEN);
                     ((TextView)view.findViewById(R.id.textViewHours)).setText("Open");
                 } else {
-                    view.setBackgroundColor(Color.rgb(255, 205, 205)); //LIGHT RED
+                    view.setBackgroundColor(Color.rgb(238, 50, 51)); //Pomogranate - LIGHT RED
                     ((TextView)view.findViewById(R.id.textViewHours)).setText("Closed");
                 }
             }

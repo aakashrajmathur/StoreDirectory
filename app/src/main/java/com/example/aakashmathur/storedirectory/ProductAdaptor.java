@@ -7,6 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
+import android.widget.CheckBox;
 import android.widget.TextView;
 
 import java.util.List;
@@ -40,12 +41,15 @@ public class ProductAdaptor extends ArrayAdapter {
         tv = (TextView)view.findViewById(R.id.textViewAisle);
         tv.setText(product.aisle);
 
+        CheckBox cb = (CheckBox)view.findViewById(R.id.checkBox1);
+        cb.setChecked(product.selected);
+
         //Background color
 
         if((position % 2) == 0) {
-            view.setBackgroundColor(Color.LTGRAY);
+            view.setBackgroundColor(Color.rgb(236, 240, 241));//Cloud
         }else{
-            view.setBackgroundColor(Color.WHITE);
+            view.setBackgroundColor(Color.rgb(189, 195, 199));//Silver
         }
 
         return view;

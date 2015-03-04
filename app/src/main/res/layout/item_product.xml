@@ -10,8 +10,16 @@
         android:layout_gravity="center_horizontal"
         android:paddingTop="5dp"
         android:paddingBottom="5dp"
-        android:paddingLeft="10dp"
-        android:paddingRight="10dp">
+        android:paddingLeft="0dp"
+        android:paddingRight="0dp">
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/checkBox1"
+            android:onClick="checkBoxClicked"
+            android:freezesText="true"
+            android:paddingLeft="5dp"/>
 
         <TextView
             android:layout_width="wrap_content"
@@ -27,6 +35,7 @@
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:text="Medium Text"
             android:id="@+id/textViewAisle"
-            android:gravity="right"/>
+            android:gravity="right"
+            android:paddingRight="5dp"/>
     </LinearLayout>
 </LinearLayout>

@@ -32,16 +32,16 @@ Special Buys
 3-B
 Specials 
 3-B
+Religious Candles
+4-A
+Central American
+4-A
+Mexican Food 
+4-A
 Tex-Mex
 4-B
 Olives & Peppers
 4-B
-Religious Candles
-4-A
-Central Americal
-4-A
-Mexican Food 
-4-A
 Fruit Juices
 5-A
 Fruit Drinks
@@ -52,7 +52,7 @@ Can Vegetables
 5-B
 Gravy Mixes
 5-B
-Tomatos
+Tomato
 5-B
 Can Meats
 6-A
@@ -64,7 +64,7 @@ Rice & Beans
 6-B
 Box Dinners
 6-B
-Pasta & Sause
+Pasta & Sauce
 6-B
 Cookies
 7-A
@@ -102,7 +102,7 @@ School Supplies
 9-B
 Granola & Fruit Snacks
 9-B
-Feminine Hygine 
+Feminine Hygiene
 10-A
 Hair Needs 
 10-A
@@ -114,7 +114,7 @@ Health & Beauty
 10-B
 Laundry Soaps
 11-A
-Fabric Softners
+Fabric Softeners
 11-A
 Bleach
 11-A

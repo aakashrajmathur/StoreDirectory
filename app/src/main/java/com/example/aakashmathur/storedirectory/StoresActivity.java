@@ -1,3 +1,6 @@
+//Suggestion for App name - Quick Shopper, credit Akshata Mathur (21st Feb 2015)
+
+
 package com.example.aakashmathur.storedirectory;
 
 import android.content.Intent;
