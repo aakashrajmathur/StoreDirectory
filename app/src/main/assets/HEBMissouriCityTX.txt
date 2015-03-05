@@ -1,165 +1,322 @@
-Air Conditioner Filters . . . . . . . . . . .13
-Air Freshener . . . . . . . . . . . . . . . . .13 
-Aluminum Foil . . . . . . . . . . . . . . . . .14 
-Appliances . . . . . . . . . . . . . . . . . . . .7 
-Asian Foods . . . . . . . . . . . . . . . . . . .6 
-Automotive Supplies . . . . . . . . . . . .12 
-Baby Accessories . . . . . . . . . . . . . .18 
-Baby Food . . . . . . . . . . . . . . . . . . . .18 
-Baby Formula . . . . . . . . . . . . . . . . .18 
-Baby Medication . . . . . . . . . . . . . . .18 
-Baby Wipes . . . . . . . . . . . . . . . . . . .18 
-Bags/Wrap . . . . . . . . . . . . . . . . . . .14 
-Bakeware . . . . . . . . . . . . . . . . . . . . .7 
-Band-Aids . . . . . . . . . . . . . . . . . . . .15 
-Barbecue Sauce . . . . . . . . . . . . . . . .5 
-Bath Soap . . . . . . . . . . . . . . . . . . . .17 
-Bath Tissue . . . . . . . . . . . . . . . . . . .14 
-Beans (Canned) . . . . . . . . . . . . . . . . .8 
-Beans (Dry) . . . . . . . . . . . . . . . . . . . .6 
-Beer . . . . . . . . . . . . . . . . .Beer & Wine 
-Bird Seed . . . . . . . . . . . . . . . . . . . .12 
-Biscuit Mix . . . . . . . . . . . . . . . . . . . .9 
-Bleach . . . . . . . . . . . . . . . . . . . . . . . 14 
-Boxed Dinners . . . . . . . . . . . . . . . . . . 7 
-Bread . . . . . . . . . . . . . . . . . . . . . . . .4 
-Bulk Food . . . . . . . . . . .Healthy Living 
-Cake Mixes . . . . . . . . . . . . . . . . . . . .9 
-Candles . . . . . . . . . . . . . . . . . . . . . . 19 
-Candy . . . . . . . . . . . . . . . . . . . . . . .10 
-Canned Chili . . . . . . . . . . . . . . . . . . .8 
-Canned Fish . . . . . . . . . . . . . . . . . . .8 
-Canned Fruit . . . . . . . . . . . . . . . . . . .5 
-Canned Meat . . . . . . . . . . . . . . . . . .8 
-Canned Tomatoes . . . . . . . . . . . . . . .8 
-Canned Vegetables . . . . . . . . . . . . . .8 
-Canning Supplies . . . . . . . . . . . . . . .5 
-Cat Food . . . . . . . . . . . . . . . . . . . . .12 
-Cat Litter . . . . . . . . . . . . . . . . . . . . .12 
-Cereal . . . . . . . . . . . . . . . . . . . . . . .11 
-Cereal (Hot) . . . . . . . . . . . . . . . . . . .11 
-Chips . . . . . . . . . . . . . . . . . . . . . . . .2 
-Cleaners/Cleansers . . . . . . . . . . . . .13 
-Closet Items . . . . . . . . . . . . . . . . . .13 
-Coffee . . . . . . . . . . . . . . . . . . . . . . . .3 
-Coffee (Bulk) . . . . . . . . . .Healthy Living 
-Coffee Creamer . . . . . . . . . . . . . . . . .3 
-Coffee Filters . . . . . . . . . . . . . . . . . . . 3 
-Condiments . . . . . . . . . . . . . . . . . . . . 5 
-Cookies . . . . . . . . . . . . . . . . . . . . . . .4 
-Cosmetics . . . . . . . . . . . . . .Cosmetics 
-Cotton Balls . . . . . . . . . . . . . . . . . . . 17 
-Cough &Cold . . . . . . . . . . . . . . . . .15 
-Crackers . . . . . . . . . . . . . . . . . . . . . .4 
-Dental/Oral Care . . . . . . . . . . . . . . .16 
-Deodorant . . . . . . . . . . . . . . . . . . . .16
-Diapers . . . . . . . . . . . . . . . . . . . . . .18 
-Diet Aids . . . . . . . . . . . . . . . . . . . . .15 
-Dish Soap . . . . . . . . . . . . . . . . . . . .13 
-Dog Food . . . . . . . . . . . . . . . . . . . .12 
-Dried Fruit . . . . . . . . . . . . . . . . . . . . .5 
-Electrical Needs . . . . . . . . . . . . . . .12 
-Eye Care . . . . . . . . . . . . . . . . . . . . .15 
-Fabric Softener . . . . . . . . . . . . . . . .13 
-Facial Care . . . . . . . . . . . . . . . . . . .17 
-Facial Tissue . . . . . . . . . . . . . . . . . .14 
-Feminine Hygiene . . . . . . . . . . . . . .16 
-First Aid . . . . . . . . . . . . . . . . . . . . . . 15 
-Floor Wax . . . . . . . . . . . . . . . . . . . .13 
-Flour . . . . . . . . . . . . . . . . . . . . . . . . .9 
-Foil Bakeware . . . . . . . . . . . . . . . . . .9 
-Foot Care . . . . . . . . . . . . . . . . . . . .15 
-Fruit Snacks . . . . . . . . . . . . . . . . . .11 
-Gift Wrap . . . . . . . . . . . . . . . . . . . . . 19 
-Glue . . . . . . . . . . . . . . . . . . . . . . . .20 
-Gluten Free . . . . . . . . . . . . . . . . . . . .2 
-Gravy Mixes . . . . . . . . . . . . . . . . . . .7 
-Greeting Cards . . . . . . . . . . . . . . . .19 
-Hair Accessories . . . . . . . . . . . . . . .17 
-Hair Care . . . . . . . . . . . . . . . . . . . . . 17 
-Hair Color . . . . . . . . . . . . . . . . . . . .17 
-Hardware . . . . . . . . . . . . . . . . . . . .12 
-Hispanic Foods . . . . . . . . . . . . . . . . .6 
-Honey . . . . . . . . . . . . . . . . . . . . . . . .5 
-Hosiery . . . . . . . . . . . . . . . . . . . . . .16 
-Hot Cocoa . . . . . . . . . . . . . . . . . . . . .3 
-Incontinence . . . . . . . . . . . . . . . . . .16 
-Insecticides . . . . . . . . . . . . . . . . . . .13 
-Instant Breakfast . . . . . . . . . . . . . . .11 
-Jam/Jelly . . . . . . . . . . . . . . . . . . . . .5 
-Jell-O . . . . . . . . . . . . . . . . . . . . . . . .9 
-Juice . . . . . . . . . . . . . . . . . . . . . . . .10 
-Ketchup . . . . . . . . . . . . . . . . . . . . . .5 
-Kitchen Gadgets . . . . . . . . . . . . . . . .7 
-Kool-Aid . . . . . . . . . . . . . . . . . . . . . .3 
-Laundry Detergent . . . . . . . . . . . . .13 
-Laxatives . . . . . . . . . . . . . . . . . . . . . 15 
-Light Bulbs . . . . . . . . . . . . . . . . . . .12 
-Lotion/Cream . . . . . . . . . . . . . . . . .17 
-Macaroni & Cheese . . . . . . . . . . . . . .7 
-Marshmallows . . . . . . . . . . . . . . . . . . 9 
-Mayonnaise . . . . . . . . . . . . . . . . . . . . 5 
-Menï¿½s Toiletries . . . . . . . . . . . . . . . .16 
-Microwaveable Food . . . . . . . . . . . . .8 
-Milk (Canned/Powdered) . . . . . . . . . . 9 
-Mixers . . . . . . . . . . . . . . .Beer & Wine 
-Mops/Brooms . . . . . . . . . . . . . . . . .13 
-Mustard . . . . . . . . . . . . . . . . . . . . . .5 
-Napkins . . . . . . . . . . . . . . . . . . . . . . 14 
-Nutritional Aids/Bars . . . . . . . Healthy Living
-Nuts (Baking) . . . . . . . . . . . . . . . . . .9 
-Nuts (Snacking) . . . . . . . . . . . . . . . . . 2 
-Oil/Shortening . . . . . . . . . . . . . . . . . .9 
-Olives . . . . . . . . . . . . . . . . . . . . . . . .5 
-Pancake Mix . . . . . . . . . . . . . . . . . .11 
-Paper Towels . . . . . . . . . . . . . . . . . . 14 
-Party Supplies . . . . . . . . . . . . . . . . .19 
-Pasta (Canned) . . . . . . . . . . . . . . . . .8 
-Pasta (Dry) . . . . . . . . . . . . . . . . . . . .7 
-Pastries . . . . . . . . . . . . . . . . . . . . . . .4 
-Peanut Butter . . . . . . . . . . . . . . . . . .5 
-Pet Supplies . . . . . . . . . . . . . . . . . .12 
-Picante Sauce . . . . . . . . . . . . . . . . . .6 
-Pickles . . . . . . . . . . . . . . . . . . . . . . .5 
-Pimentos . . . . . . . . . . . . . . . . . . . . . . 8 
-Plates/Cups . . . . . . . . . . . . . . . . . . . 14 
-Pop Tarts . . . . . . . . . . . . . . . . . . . . .11 
-Popcorn . . . . . . . . . . . . . . . . . . . . . . . 2 
-Potatoes/Stuffing . . . . . . . . . . . . . . . . 7 
-Pudding/Pie Filling . . . . . . . . . . . . . . . 9 
-Q-Tips . . . . . . . . . . . . . . . . . . . . . . .17 
-Religious Candles . . . . . . . . . . . . . .19 
-Rice . . . . . . . . . . . . . . . . . . . . . . . . .6 
-Rice Cakes . . . . . . . . . . . . . . . . . . . .2 
-Salad Dressing . . . . . . . . . . . . . . . . .5 
-Salsa . . . . . . . . . . . . . . . . . . . . . . . . . 6 
-Sauce Mixes . . . . . . . . . . . . . . . . . . .7 
-School Supplies . . . . . . . . . . . . . . .20 
-Seasonal Items . . . . . . . . . . . . . . . .21 
-Sewing Needs . . . . . . . . . . . . . . . . .16 
-Shampoo/Conditioner . . . . . . . . . . . 17 
-Shaving Needs . . . . . . . . . . . . . . . .16 
-Shoe Care . . . . . . . . . . . . . . . . . . . .16 
-Skin Care . . . . . . . . . . . . . . . . . . . .17 
-Snacks . . . . . . . . . . . . . . . . . . . . . . .2 
-Sodas . . . . . . . . . . . . . . . . . . . . . . . .1 
-Soup . . . . . . . . . . . . . . . . . . . . . . . . .8 
-Spices . . . . . . . . . . . . . . . . . . . . . . . .9 
-Sports Drinks . . . . . . . . . . . . . . . . . .1 
-Starch . . . . . . . . . . . . . . . . . . . . . . .13 
-Sugar . . . . . . . . . . . . . . . . . . . . . . . .9 
-Syrup . . . . . . . . . . . . . . . . . . . . . . .11 
-Tea . . . . . . . . . . . . . . . . . . . . . . . . . .3 
-Toaster Pastries . . . . . . . . . . . . . . . . 11 
-Toothpicks . . . . . . . . . . . . . . . . . . . . 14 
-Tortillas . . . . . . . . . . . . . . . . . . . . . . .4 
-Toys . . . . . . . . . . . . . . . . . . . . . . . .20 
-Trash Bags . . . . . . . . . . . . . . . . . . .14 
-Vinegar . . . . . . . . . . . . . . . . . . . . . . .5 
-Vitamins . . . . . . . . . . . . . . . . . . . . .15 
-Water . . . . . . . . . . . . . . . . . . . . . . . .3 
-Wine . . . . . . . . . . . . . . . .Beer & Wine 
-Lake Colony
-
-
-
+Air Conditioner Filters
+13 
+Air Freshener
+13 
+Aluminum Foil
+14 
+Appliances
+7 
+Asian Foods
+6 
+Automotive Supplies
+12 
+Baby Accessories
+18 
+Baby Food
+18 
+Baby Formula
+18 
+Baby Medication
+18 
+Baby Wipes
+18 
+Bags/Wrap
+14 
+Bakeware
+7 
+Band-Aids
+15 
+Barbecue Sauce
+5 
+Bath Soap
+17 
+Bath Tissue
+14 
+Beans (Canned)
+8 
+Beans (Dry)
+6 
+Beer
+Beer & Wine 
+Bird Seed
+12 
+Biscuit Mix
+9 
+Bleach
+4 
+Boxed Dinners
+7
+Bread
+4 
+Bulk Food
+Healthy Living 
+Cake Mixes
+9 
+Candles
+9 
+Candy
+10 
+Canned Chili
+8 
+Canned Fish
+8 
+Canned Fruit
+5 
+Canned Meat
+8 
+Canned Tomatoes
+8 
+Canned Vegetables
+8 
+Canning Supplies
+5 
+Cat Food
+12 
+Cat Litter
+12 
+Cereal
+11 
+Cereal (Hot)
+11 
+Chips
+2 
+Cleaners/Cleansers
+13 
+Closet Items
+13 
+Coffee
+3 
+Coffee (Bulk)
+Healthy Living 
+Coffee Creamer
+3 
+Coffee Filters
+3
+Condiments
+5
+Cookies
+4 
+Cosmetics
+Cosmetics 
+Cotton Balls
+17 
+Cough &Cold
+15 
+Crackers
+4 
+Dental/Oral Care
+16 
+Deodorant
+16 
+Diapers
+18 
+Diet Aids
+15 
+Dish Soap
+13 
+Dog Food
+12 
+Dried Fruit
+5 
+Electrical Needs
+12 
+Eye Care
+15 
+Fabric Softener
+13 
+Facial Care
+17 
+Facial Tissue
+14 
+Feminine Hygiene
+16 
+First Aid
+5 
+Floor Wax
+13 
+Flour
+9 
+Foil Bakeware
+9 
+Foot Care
+15 
+Fruit Snacks
+11 
+Gift Wrap
+9 
+Glue
+20 
+Gluten Free
+2 
+Gravy Mixes
+7 
+Greeting Cards
+19 
+Hair Accessories
+17 
+Hair Care
+7 
+Hair Color
+17 
+Hardware
+12 
+Hispanic Foods
+6 
+Honey
+5 
+Hosiery
+16 
+Hot Cocoa
+3 
+Incontinence
+16 
+Insecticides
+13 
+Instant Breakfast
+11 
+Jam/Jelly
+5 
+Jell-O
+9 
+Juice
+10 
+Ketchup
+5 
+Kitchen Gadgets
+7 
+Kool-Aid
+3 
+Laundry Detergent
+13 
+Laxatives
+5 
+Light Bulbs
+12 
+Lotion/Cream
+17 
+Macaroni & Cheese
+7 
+Marshmallows
+9
+Mayonnaise
+5 
+Men’s Toiletries
+16 
+Microwaveable Food
+8 
+Milk (Canned/Powdered)
+9 
+Mixers
+Beer & Wine 
+Mops/Brooms
+13 
+Mustard
+5 
+Napkins
+14 
+Nutritional Aids/Bars
+Healthy Living 
+Nuts (Baking)
+9 
+Nuts (Snacking)
+2 
+Oil/Shortening
+9 
+Olives
+5 
+Pancake Mix
+11 
+Paper Towels
+14 
+Party Supplies
+19 
+Pasta (Canned)
+8 
+Pasta (Dry)
+7 
+Pastries
+4 
+Peanut Butter
+5 
+Pet Supplies
+12 
+Picante Sauce
+6 
+Pickles
+5 
+Pimentos
+8 
+Plates/Cups
+14 
+Pop Tarts
+11 
+Popcorn
+2
+Potatoes/Stuffing
+7
+Pudding/Pie Filling
+9
+Q-Tips
+17 
+Religious Candles
+19 
+Rice
+6 
+Rice Cakes
+2 
+Salad Dressing
+5 
+Salsa
+6
+Sauce Mixes
+7 
+School Supplies
+20 
+Seasonal Items
+21 
+Sewing Needs
+16 
+Shampoo/Conditioner
+17 
+Shaving Needs
+16 
+Shoe Care
+16 
+Skin Care
+17 
+Snacks
+2 
+Sodas
+1 
+Soup
+8 
+Spices
+9 
+Sports Drinks
+1 
+Starch
+13 
+Sugar
+9 
+Syrup
+11 
+Tea
+3 
+Toaster Pastries
+11
+Toothpicks
+14 
+Tortillas
+4 
+Toys
+20 
+Trash Bags
+14 
+Vinegar
+5 
+Vitamins
+15 
+Water
+3 
+Wine
+Beer & Wine 

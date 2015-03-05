@@ -88,6 +88,36 @@ FoodTownSugarLandTX.txt
 
 
 www.foodtownshopper.com
+H-E-B Plus!
+Katy
+6711 South Fry Rd.
+Katy, TX 77494, United States
+
+
+HEBPlusKatyTX.txt
+
+
+
+06:00
+23:59
+06:00
+23:59
+06:00
+23:59
+06:00
+23:59
+06:00
+23:59
+06:00
+23:59
+06:00
+23:59
+(281) 392-9500
+
+
+
+
+www.heb.com
 H-E-B
 Missouri City
 4724 Highway 6
